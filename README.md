@@ -40,7 +40,3 @@ Implementing a graphical user interface (GUI) for better user interaction.
 Adding persistent storage using a database or file system.
 
 Integrating a voice command feature for task input.
-
-License
-
-This project is open-source and available for modification and distribution under the MIT License.
